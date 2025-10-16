@@ -1,10 +1,5 @@
 # STARTER-jpa03
 
-```
-
-Running at: https://jpa03-pratimanallapareddy.dokku-14.cs.ucsb.edu
-
-```
 
 Running at: https://jpa03-pratimanallapareddy.dokku-14.cs.ucsb.edu
 
